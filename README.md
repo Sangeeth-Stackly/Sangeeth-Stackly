@@ -2,17 +2,14 @@
 
 ### 🚀 DevOps Engineer | Linux & AWS
 
-<p align="left">
-  <img src="https://komarev.com/ghprofile/uc/?username=Sangeeth-Stackly&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 DevOps Engineer focused on Linux system administration, AWS cloud infrastructure, and automation scripting. Passionate about breaking down complex systems and building secure, scalable environments from scratch.
+
 ---
 
-## 🛠️Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Category | Technologies / Tools |
 | :--- | :--- |
@@ -23,8 +20,7 @@ DevOps Engineer focused on Linux system administration, AWS cloud infrastructure
 ---
 
 ## 📈 Current Focus & Learning
-- 🐧Strengthening core Linuxd CLI operations, security, and storage management.
+- 🐧 Strengthening core Linux CLI operations, security, and storage management.
 - ☁️ Exploring AWS cloud architectures, networking, and deployment workflows.
-
 
 ---
