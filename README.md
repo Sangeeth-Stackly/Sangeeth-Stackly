@@ -1,4 +1,4 @@
-# Hi, I'm Sangeeth 👋
+# Hi, I am Sangeeth 👋
 
 ### 🚀 DevOps Engineer | Linux & AWS
 
